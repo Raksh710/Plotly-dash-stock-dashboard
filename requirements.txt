@@ -27,7 +27,6 @@ dash-core-components==2.0.0
 dash-daq==0.5.0
 dash-html-components==2.0.0
 dash-table==5.0.0
-datashape==0.5.4
 distlib==0.3.6
 dnspython==2.2.1
 dtale==2.4.0
