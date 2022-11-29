@@ -7,10 +7,10 @@ from plotly import tools
 import dash, json
 from dash import dcc, html, Dash
 from dash.dependencies import Input, Output, State
-import base64
+#import base64
 import requests
 
-import pandas_datareader as web
+#import pandas_datareader as web
 from datetime import datetime
 import yfinance as yf
 
