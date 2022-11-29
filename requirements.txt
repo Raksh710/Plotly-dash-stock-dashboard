@@ -15,11 +15,7 @@ bs4==0.0.1
 catalogue==2.0.7
 catboost==1.0.6
 certifi==2022.5.18.1
-clyent==1.2.2
 comtypes==1.1.10
-conda==4.13.0
-conda-build==3.21.8
-conda-verify==3.4.2
 constantly==15.1.0
 cssselect==1.1.0
 cymem==2.0.6
