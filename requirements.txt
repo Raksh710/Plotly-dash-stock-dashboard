@@ -20,7 +20,6 @@ constantly==15.1.0
 cssselect==1.1.0
 cymem==2.0.6
 cytoolz==0.11.0
-daal4py==2021.5.0
 dash==2.4.1
 dash-bootstrap-components==1.1.0
 dash-colorscales==0.0.4
