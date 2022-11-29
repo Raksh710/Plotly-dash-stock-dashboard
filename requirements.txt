@@ -88,8 +88,6 @@ squarify==0.4.3
 srsly==2.4.3
 statsmodels==0.13.2
 strsimpy==0.2.1
-tabulate==0.8.9
-TBB==0.2
 tensorboard==2.9.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
