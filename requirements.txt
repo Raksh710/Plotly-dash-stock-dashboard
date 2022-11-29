@@ -27,7 +27,6 @@ dash-html-components==2.0.0
 dash-table==5.0.0
 distlib==0.3.6
 dnspython==2.2.1
-dtale==2.4.0
 et-xmlfile==1.1.0
 Flask-Compress==1.12
 flask-ngrok==0.0.25
@@ -41,11 +40,8 @@ h11==0.13.0
 inflection==0.5.1
 jsonify==0.5
 kaleido==0.2.1
-keras==2.9.0
-Keras-Preprocessing==1.1.2
 langcodes==3.3.0
 libclang==14.0.1
-lightgbm==3.3.2
 llvmlite==0.38.0
 lz4==4.0.1
 mccabe==0.6.1
