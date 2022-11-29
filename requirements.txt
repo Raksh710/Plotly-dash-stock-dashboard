@@ -2,7 +2,6 @@ absl-py==1.0.0
 anaconda-navigator==2.2.0
 analytics-python==1.4.0
 appdirs==1.4.4
-argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644551690056/work
 astunparse==1.6.3
 async-generator==1.10
 atomicwrites==1.4.0
@@ -17,7 +16,6 @@ bs4==0.0.1
 catalogue==2.0.7
 catboost==1.0.6
 certifi==2022.5.18.1
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 clyent==1.2.2
 comtypes==1.1.10
 conda==4.13.0
