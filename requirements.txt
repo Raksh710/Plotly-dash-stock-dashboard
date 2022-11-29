@@ -1,5 +1,4 @@
 absl-py==1.0.0
-anaconda-navigator==2.2.0
 analytics-python==1.4.0
 appdirs==1.4.4
 astunparse==1.6.3
